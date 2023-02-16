@@ -5,8 +5,26 @@ repo: upptime # The name of this repository
 sites:
   - name: Genesis Public Website
     url: https://www.genesisrg.com/
+  - name: Traefik Proxy
+    url: https://traefik.genesisresearch.io/
+
   - name: Genesis PTOR
     url: https://genesis.ptor.io/
+  - name: Prove
+    url: https://prove.gens1.com/#/login
+
+  - name: Prove API US
+    url: https://shionogi-chart-review-demo-backend.gens1.com/
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 401
+  - name: Prove API EU
+    url: https://prove-api-eu.genesisresearch.io/
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 401
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
