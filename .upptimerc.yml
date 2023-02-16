@@ -44,8 +44,8 @@ status-website:
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a simple status page which uses **real-time** data.
   navbar:
-    - title: Status
-      href: /
+    - title: Genesis Research
+      href: https://www.genesisrg.com/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
