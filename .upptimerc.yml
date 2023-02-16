@@ -10,8 +10,16 @@ sites:
 
   - name: Genesis PTOR
     url: https://genesis.ptor.io/
+
   - name: Prove
     url: https://prove.gens1.com/#/login
+
+  - name: Evid AI
+    url: https://app.evidscience.com/
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 401
 
   - name: Prove API US
     url: https://shionogi-chart-review-demo-backend.gens1.com/
