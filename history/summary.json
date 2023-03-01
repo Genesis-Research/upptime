@@ -112,17 +112,17 @@
     "url": "https://prove-api-eu.genesisresearch.io/",
     "icon": "https://icons.duckduckgo.com/ip3/prove-api-eu.genesisresearch.io.ico",
     "slug": "prove-api-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 747,
-    "timeDay": 684,
-    "timeWeek": 677,
-    "timeMonth": 747,
-    "timeYear": 747,
+    "time": 735,
+    "timeDay": 611,
+    "timeWeek": 660,
+    "timeMonth": 735,
+    "timeYear": 735,
     "dailyMinutesDown": {}
   }
 ]
