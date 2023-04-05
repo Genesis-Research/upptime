@@ -1,7 +1,7 @@
 url: https://shionogi-chart-review-demo-backend.gens1.com/
-status: down
-code: 502
-responseTime: 370
-lastUpdated: 2023-04-05T15:22:56.677Z
+status: up
+code: 401
+responseTime: 422
+lastUpdated: 2023-04-05T18:20:53.567Z
 startTime: Thu Feb 16 2023 19:20:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
