@@ -1,7 +1,7 @@
 url: https://prove-api-eu.genesisresearch.io/
-status: down
-code: 502
-responseTime: 604
-lastUpdated: 2023-07-05T23:06:35.678Z
+status: up
+code: 401
+responseTime: 715
+lastUpdated: 2023-07-06T13:03:47.584Z
 startTime: Thu Feb 16 2023 19:20:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
